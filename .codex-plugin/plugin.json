@@ -1,0 +1,21 @@
+{
+  "name": "rebase-and-fix-conflicts",
+  "version": "1.0.0",
+  "description": "Rebase the current branch onto main and resolve conflicts.",
+  "author": {
+    "name": "Diego Petrucci",
+    "url": "https://github.com/diegopetrucci"
+  },
+  "repository": "https://github.com/diegopetrucci/rebase-and-fix-conflicts",
+  "license": "MIT",
+  "keywords": ["git", "rebase", "conflicts", "developer-tools"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Rebase and Fix Conflicts",
+    "shortDescription": "Rebase branches and resolve conflicts",
+    "longDescription": "Rebase the current branch onto main, resolve conflicts while preserving branch intent, and run focused validation before reporting back.",
+    "developerName": "Diego Petrucci",
+    "category": "Developer Tools",
+    "capabilities": ["Read", "Write", "Execute"]
+  }
+}

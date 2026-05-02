@@ -1,0 +1,5 @@
+{
+  "name": "rebase-and-fix-conflicts",
+  "description": "Rebase a branch onto main and resolve conflicts",
+  "version": "1.0.0"
+}
