@@ -27,6 +27,14 @@ npx skills add https://github.com/diegopetrucci/rebase-and-fix-conflicts --skill
 /plugin install rebase-and-fix-conflicts@diegopetrucci-claude-plugins
 ```
 
+### As a Codex plugin
+
+```shell
+codex plugin marketplace add diegopetrucci/ai-agents-skills
+```
+
+Restart Codex, then install `rebase-and-fix-conflicts` from the "Diego Petrucci Agent Skills" marketplace in the plugin directory.
+
 ## Usage
 
 Trigger the skill while on a feature branch:
