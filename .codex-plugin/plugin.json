@@ -1,6 +1,6 @@
 {
   "name": "rebase-and-fix-conflicts",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Rebase the current branch onto main and resolve conflicts.",
   "author": {
     "name": "Diego Petrucci",

@@ -4,7 +4,7 @@ description: Rebase the current branch onto main and resolve conflicts. Use this
 license: MIT
 metadata:
   author: Diego Petrucci
-  version: "1.0"
+  version: "1.1"
 ---
 
 # Rebase and Fix Conflicts
